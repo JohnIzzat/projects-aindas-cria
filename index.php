@@ -22,7 +22,7 @@
                     <div>
                         <div class="mb-3">
                         <label>Senha</label>
-                            <input type="passaword"
+                            <input type="password"
                             name="senha"
                             class="form-control">
                         </div>
