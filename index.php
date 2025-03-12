@@ -24,6 +24,10 @@
                         <div class="mb-3">
                             <label>Senha</label>
                             <input type="password" name="senha" class="form-control">
+                        <label>Senha</label>
+                            <input type="password"
+                            name="senha"
+                            class="form-control">
                         </div>
                     </div>
                     <div>
